@@ -20,8 +20,10 @@
 <div>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </div>
+<div>
 <p> I'm currently a **Senior Solutions Engineer at QSIT ALKAN CIT, Egypt**,</p> 
 <p> I specialize in multi‑cloud DevOps and Building Geospatial Systems at Scale, including ArcGIS Enterprise Deployment, Migration Patterns, and Administration. </p>
+</div>
 
 - Lead a team of 5 GIS professional,s fostering their technical and personal growth.
 - Architect GIS-DevOps Workflows and ArcGIS Platform Deployments  
