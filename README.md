@@ -12,6 +12,9 @@
 <br> </h3>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedAlhusaini.AhmedAlhusaini&"  />
+
+<a href="https://www.linkedin.com/services/page/854b87312a20b82853/"> <b> Try My Services</a> 
+</div>
 </div>
 
 <div>
@@ -29,8 +32,7 @@
 
 4. I build spatial solutions aligned with business needs, with detail-oriented skills to analyze requirements starting with MVPs, filling in the dots, and educating/learning with the customer throughout the journey toward the final solution.
 
-<a href="https://www.linkedin.com/services/page/854b87312a20b82853/"> <b> Try My Services</a> 
-</div>
+
 
 
 💡 **Personal Quote:**  
