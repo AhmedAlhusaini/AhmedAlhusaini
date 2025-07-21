@@ -14,7 +14,17 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedAlhusaini.AhmedAlhusaini&"  />
 </div>
 <div>
-🌱 I’m currently learning **Multi-Cloud DevOps** . Hope to be on the front line in shaping the next generation of spatial systems.  🚀 Passionate about solving real-world problems, mentoring professionals, and always learning something new.</b>
+🌱 I’m currently learning **Multi-Cloud DevOps** . Hope to be on the front line in shaping the next generation of spatial systems.  
+
+### 🔑 Key Highlights:
+
+1. Passionate about system design and architecture, particularly related to GIS infrastructure.
+
+2. Currently expanding my expertise in System Design and Administration, focusing on in-demand skills: **CompTIA A+**, **CCNA**, **MCSA**, **Linux**,**Bash**, **AWS**,**AZURE**, and **DevOps Tools**.  
+ 
+3. Committed to advancing my knowledge in cloud computing and DevOps methodologies related to **ArcGIS Enterprise Infrastructure & Deployment** scenarios.
+
+4. I build spatial solutions aligned with business needs, with detail-oriented skills to analyze requirements starting with MVPs, filling in the dots, and educating/learning with the customer throughout the journey toward the final solution.
 
 <a href="https://www.linkedin.com/services/page/854b87312a20b82853/"> <b> Try My Services</a> 
 </div>
