@@ -38,7 +38,7 @@
 
 
 💡 **Personal Quote:**  
-> *I live by unwavering resilience and adaptability. I have One Simple Rule: Whatever, whenever, whoever, the sun also rises. So must we. Try to live, hoping this makes me die and rest in peace.*
+> *I live by unwavering resilience and adaptability. I have One Simple Rule: Whatever, whenever, whoever, the sun also rises , we must try to live. Hoping this makes me die and rest in peace.*
 
 ---
 ### 💼 Current Role
