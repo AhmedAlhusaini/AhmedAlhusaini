@@ -1,3 +1,15 @@
+<h1 align="center">
+  Alhusainy, Abou Zain — 👋
+</h1>
+
+<p align="center"><i>(Pronounced: Al-hoo-say-nee • Ah-boo Zayn)</i></p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=600&lines=Life+Long+Problem+Solver;Lead+By+Example;Shaping+Next+Gen+Spatial+Infrastructure;Exploring+Next+AI+Business+Ideas;Making+GIS+Powerful+and+Scalable;Mentoring+With+Impact;Creating+Things+That+Last" alt="Typing SVG" />
+  </a>
+</p>
+
 <h1 align="center">Ahmed Tarek Alhusainy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
