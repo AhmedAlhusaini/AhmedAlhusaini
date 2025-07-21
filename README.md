@@ -1,4 +1,13 @@
 <h1 align="center">Ahmed Tarek Alhusainy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=500&lines=Life+Long+Problem+Solver;Lead+By+Example;Shaping+Next+Gen+Spatial+Infrastructure;Exploring+Next+AI+Business+Ideas" alt="Typing SVG" />
+  </a>
+</p>
+
+
 <h3 align="center">Your Results-Driven Spatial Enterprise Solutions Engineer.<b></b>
 <br> </h3>
 <div align="center">
