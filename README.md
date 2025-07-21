@@ -1,5 +1,4 @@
 <h1 align="center">Ahmed Tarek Alhusainy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQETzsiNeJY_Bg/profile-displayphoto-shrink_200_200/B4DZdrgsVlG8AY-/0/1749855425595?e=1755734400&v=beta&t=LNdmRRj5vpY4T4LGW3R2DpBn-Jfik_oju7IoDZV06AM"  />
 <h3 align="center">Your Results-Driven Spatial Enterprise Solutions Engineer.<b></b>
 <br> </h3>
 <div align="center">
@@ -96,7 +95,8 @@
 
 
 ### 📊 GitHub Stats
-<div align="left">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlhusaini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=AhmedAlhusaini&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
