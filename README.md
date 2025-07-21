@@ -15,6 +15,24 @@
 > *I live by unwavering resilience and adaptability. I have One Simple Rule: Whatever, whenever, whoever, the sun also rises. So must we. Try to live, hoping this makes me die and rest in peace.*
 
 ---
+### 💼 Current Role
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="250" alt="Coding Animation" />
+</p>
+
+I'm currently a **Senior Solutions Engineer at QSIT ALKAN CIT, Egypt**.
+
+I specialize in multi-cloud DevOps and building Geospatial Systems at scale, including ArcGIS Enterprise Deployment, Migration Patterns, and Administration.
+
+- Lead a team of 5 GIS professionals, fostering their technical and personal growth  
+- Architect GIS‑DevOps Workflows and ArcGIS Platform Deployments  
+- Develop automation scripts in Python and JavaScript  
+- Participate in infrastructure planning, DB modeling, and cloud migrations  
+- Provide training and technical support to empower clients
+
+📄 [Here is My Resume – I’m Open to New Opportunities](https://drive.google.com/file/d/1v0uTVudfojQfk2PvWNJNcYLfVPseNTIu/view?usp=sharing)
+
 
 ### 💼 Current Role
 <div>
