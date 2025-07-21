@@ -31,8 +31,9 @@
 📄 [Here Is My Resume, I am Open For New Opportunities](https://drive.google.com/file/d/1v0uTVudfojQfk2PvWNJNcYLfVPseNTIu/view?usp=sharing)
 
 
----
----
+<div></div>
+<div></div>
+<div></div>
 
 ### 🛠 Tech Stack & Tools <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   <div align="center"> <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="250" alt="Coding Animation" />
