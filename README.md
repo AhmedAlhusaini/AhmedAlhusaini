@@ -1,4 +1,15 @@
 <h1 align="center">
+  Alhusainy, Abou Zain 👋
+</h1>
+
+<p align="center"><i>(Pronounced: Al-hoo-say-nee • Ah-boo Zayn)</i></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Life+Long+Problem+Solver;Lead+By+Example;Shaping+Next+Gen+Spatial+Infrastructure;Exploring+Next+AI+Business+Ideas;Making+GIS+Powerful+and+Scalable;Mentoring+With+Impact;Creating+Things+That+Last" alt="Typing SVG" />
+</p>
+
+
+<h1 align="center">
   I am Abou Zain
 </h1>
 <p align="center">
