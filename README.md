@@ -5,14 +5,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedAlhusaini.AhmedAlhusaini&"  />
 </div>
 <div>
-🌱 I’m currently learning **Multi-Cloud DevOps** . Hope to be on the front layer in shaping the next generation spatial systems.  🚀 Passionate about solving real-world problems, mentoring professionals, and always learning something new.</b>
+🌱 I’m currently learning **Multi-Cloud DevOps** . Hope to be on the front line in shaping the next generation of spatial systems.  🚀 Passionate about solving real-world problems, mentoring professionals, and always learning something new.</b>
 
 <a href="https://www.linkedin.com/services/page/854b87312a20b82853/"> <b> Try My Services</a> 
 </div>
 
 
 💡 **Personal Quote:**  
-> *I live by unwavering resilience and adaptability. I have One Simple Rule ; Whatever, whenever, whoever the sun also rises. So must we. Try to live, hoping this makes me die and rest in peace.*
+> *I live by unwavering resilience and adaptability. I have One Simple Rule: Whatever, whenever, whoever, the sun also rises. So must we. Try to live, hoping this makes me die and rest in peace.*
 
 ---
 
@@ -20,15 +20,15 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p> I'm currently a **Senior Solutions Engineer at QSIT ALKAN CIT, Egypt**,</p> 
-<p> I specialize in multi‑cloud DevOps and Building Geospatial Systems at Scale, including ArcGIS Enterprise Deployment, Migration Patterns and Administration. </p>
+<p> I specialize in multi‑cloud DevOps and Building Geospatial Systems at Scale, including ArcGIS Enterprise Deployment, Migration Patterns, and Administration. </p>
 
-- Lead a team of 5 GIS professionals fostering their technical and personal growth.
+- Lead a team of 5 GIS professional,s fostering their technical and personal growth.
 - Architect GIS-DevOps Workflows and ArcGIS Platform Deployments  
 - Develop automation scripts in Python and JavaScript  
 - Participate in infrastructure planning, DB modeling, and cloud migrations  
 - Provide training and technical support to empower clients
   
-📄 [Here Is My Resume, I am Open For New Oppourtinities](https://drive.google.com/file/d/1v0uTVudfojQfk2PvWNJNcYLfVPseNTIu/view?usp=sharing)
+📄 [Here Is My Resume, I am Open For New Opportunities](https://drive.google.com/file/d/1v0uTVudfojQfk2PvWNJNcYLfVPseNTIu/view?usp=sharing)
 
 
 ### 🛠 Tech Stack & Tools <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
