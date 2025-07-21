@@ -8,15 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Life+Long+Problem+Solver;Lead+By+Example;Shaping+Next+Gen+Spatial+Infrastructure;Exploring+Next+AI+Business+Ideas;Making+GIS+Powerful+and+Scalable;Mentoring+With+Impact;Creating+Things+That+Last" alt="Typing SVG" />
 </p>
 
-
-<h1 align="center">
-  I am Abou Zain
-</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=600&lines=Life+Long+Problem+Solver;Lead+By+Example;Shaping+Next+Gen+Spatial+Infrastructure;Exploring+Next+AI+Business+Ideas;Making+GIS+Powerful+and+Scalable;Mentoring+With+Impact;Creating+Things+That+Last" alt="Typing SVG" />
-  </a>
-</p>
 <h3 align="center">Your Results-Driven Spatial Enterprise Solutions Engineer.<b></b>
 <br> </h3>
 <div align="center">
