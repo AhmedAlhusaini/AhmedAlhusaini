@@ -13,7 +13,10 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedAlhusaini.AhmedAlhusaini&"  />
 </div>
+
 <div>
+
+
 ### 🔑 Key Highlights:
 
 🌱 I’m currently learning **Multi-Cloud DevOps** @DEPI With DolfinED. Hope to be on the front line in shaping the next generation of spatial systems.  
