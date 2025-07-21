@@ -1,7 +1,4 @@
 <img align="right" height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQETzsiNeJY_Bg/profile-displayphoto-shrink_200_200/B4DZdrgsVlG8AY-/0/1749855425595?e=1755734400&v=beta&t=LNdmRRj5vpY4T4LGW3R2DpBn-Jfik_oju7IoDZV06AM"  />
-
-###
-
 <h1 align="center">Ahmed Tarek Alhusainy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ###
