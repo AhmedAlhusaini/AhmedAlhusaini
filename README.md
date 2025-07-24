@@ -47,9 +47,16 @@
 I'm currently a **Senior Solutions Engineer at QSIT ALKAN CIT, Egypt**.
 
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlhusaini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+
+  <!-- Coding GIF -->
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="250" alt="Coding Animation" />
-</p>
+
+</div>
+
 
 I specialize in multi-cloud DevOps and building Geospatial Systems at scale, including ArcGIS Enterprise Deployment, Migration Patterns, and Administration.
 
@@ -181,8 +188,6 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlhusaini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+
 
 
