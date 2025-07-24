@@ -71,39 +71,39 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
   <div align="center">
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" alt="jenkins logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="7" />
-  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="50" alt="ansible logo"  />
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="40" alt="ansible logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="50" alt="prometheus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="7" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="7" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="50" alt="kubernetes logo"  />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=plan9" height="50" alt="plan9 logo"  />
+  <img src="https://skillicons.dev/icons?i=plan9" height="40" alt="plan9 logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="7" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="50" alt="apache logo"  />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   <img width="10" />
