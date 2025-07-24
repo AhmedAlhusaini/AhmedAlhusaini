@@ -189,8 +189,3 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-
-### 🌍 Activities
-![Snake animation](https://raw.githubusercontent.com/AhmedAlhusaini/AhmedAlhusaini/output/snake.svg)
-
