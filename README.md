@@ -191,9 +191,10 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
   </a>
 </div>
 
-## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src="https://raw.githubusercontent.com/AhmedAlhusaini/AhmedAlhusaini/output/snake.svg" alt="Snake animation" />
 </p>
+
+
 Last Updated on: 24/07/2025
