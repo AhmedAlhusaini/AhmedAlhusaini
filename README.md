@@ -114,7 +114,7 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
 </p>
 
 <hr>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- ESRI Tools Row -->
 <p align="center">
   <!-- ArcGIS Online -->
@@ -159,14 +159,10 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
 
 <hr>
 
-<!-- ESRI Support -->
-<p align="center">
-  <img src="https://support.esri.com/content/dam/support/en-us/social/technical-support-social-share.jpg" height="50" alt="ESRI Support" />
-</p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- CTA Button -->
 <p align="center">
-  👉 <a href="https://www.linkedin.com/services/page/854b87312a20b82853/"><b>Try My Services</b></a> – Explore how I can support your geospatial transformation
+  👉 <a href="https://www.linkedin.com/services/page/854b87312a20b82853/"><b>Try My Services</b></a> – Explore how I can support your geospatial systems
 </p>
 
 ### 🌍 Connect With Me
