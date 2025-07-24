@@ -105,13 +105,14 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
   <img width="7" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   <img width="10" />
-  
+### 🛠 ESRI Stack  
 <!-- ESRI Platform Header -->
 <p align="center">
   <img src="https://th.bing.com/th/id/R.fe3b8e396970a1b03d75a3e7f6b038fc?rik=zyIi3cbiR9jD3Q&pid=ImgRaw&r=0" width="100%" alt="ESRI Platform Banner" />
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- ESRI Tools Row -->
 <p align="center">
   <!-- ArcGIS Online -->
