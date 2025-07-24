@@ -112,8 +112,6 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
 <p align="center">
   <img src="https://th.bing.com/th/id/R.fe3b8e396970a1b03d75a3e7f6b038fc?rik=zyIi3cbiR9jD3Q&pid=ImgRaw&r=0" width="100%" alt="ESRI Platform Banner" />
 </p>
-
-<hr>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- ESRI Tools Row -->
 <p align="center">
@@ -156,8 +154,6 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
   <!-- CityEngine -->
   <img src="https://tse2.mm.bing.net/th/id/OIP.rMaN37UKLjVCAtoww_FcsQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" height="50" alt="CityEngine" />
 </p>
-
-<hr>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- CTA Button -->
