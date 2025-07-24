@@ -192,4 +192,7 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
 
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AhmedAlhusaini/AhmedAlhusaini/output/snake.svg" alt="Snake animation" />
 
