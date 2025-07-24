@@ -190,3 +190,6 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
   </a>
 </div>
 
+
+
+<img src="https://raw.githubusercontent.com/AhmedAlhusaini/AhmedAlhusaini/output/snake.svg" alt="Snake animation" />
