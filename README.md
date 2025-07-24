@@ -181,6 +181,7 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
   </a>
   <a href="https://www.facebook.com/Ahmdlhusainy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+
   </a>
   <a href="https://www.youtube.com/@GISOverflow" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
@@ -189,3 +190,10 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/AhmedAlhusaini/AhmedAlhusaini/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+Last Updated on: 24/07/2025
