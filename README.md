@@ -57,7 +57,7 @@ I'm currently a **Senior Solutions Engineer at QSIT ALKAN CIT, Egypt**.
 
 </div>
 
----
+<hr>
 
 I specialize in multi-cloud DevOps and building Geospatial Systems at scale, including ArcGIS Enterprise Deployment, Migration Patterns, and Administration.
 
