@@ -106,8 +106,68 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
   <img src="https://cdn.simpleicons.org/apache/D22128" height="50" alt="apache logo"  />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<img src="https://th.bing.com/th/id/R.865475c4a5975e22fd1c4d810f5cc551?rik=DCXkqdKuc5BCHw&pid=ImgRaw&r=0&sres=1&sresct=1" height="50" alt="ArcGIS Enterprise logo"  />
   <img width="10" />
+### 🛠 ESRI Stack  
+<!-- ESRI Platform Header -->
+<p align="center">
+  <img src="https://th.bing.com/th/id/R.fe3b8e396970a1b03d75a3e7f6b038fc?rik=zyIi3cbiR9jD3Q&pid=ImgRaw&r=0" width="100%" alt="ESRI Platform Banner" />
+</p>
+
+<hr>
+
+<!-- ESRI Tools Row -->
+<p align="center">
+  <!-- ArcGIS Online -->
+  <img src="https://tse2.mm.bing.net/th/id/OIP.Db2DqGTWYC9HgLAmmTbH2QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="50" alt="ArcGIS Online" />
+  <img width="10" />
+
+  <!-- ArcGIS Enterprise -->
+  <img src="https://th.bing.com/th/id/R.865475c4a5975e22fd1c4d810f5cc551?rik=DCXkqdKuc5BCHw&pid=ImgRaw&r=0&sres=1&sresct=1" height="50" alt="ArcGIS Enterprise" />
+  <img width="10" />
+
+  <!-- ArcGIS Pro -->
+  <img src="https://tse3.mm.bing.net/th/id/OIP.Y6raVFE2Qj8jiyBiOGqmfAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" height="50" alt="ArcGIS Pro" />
+  <img width="10" />
+
+  <!-- Enterprise Geodatabase -->
+  <img src="https://th.bing.com/th/id/R.eb20f9c1977325c14fc723f0aa4dbba2?rik=LOm%2bfu2ysLHP4Q&pid=ImgRaw&r=0" height="50" alt="Enterprise Geodatabase" />
+  <img width="10" />
+
+  <!-- ArcGIS Field Maps -->
+  <img src="https://th.bing.com/th/id/R.88220dccd8330f17dea1d165b963c308?rik=0D05XAOM2yV5vw&pid=ImgRaw&r=0" height="50" alt="Field Maps" />
+  <img width="10" />
+
+  <!-- ArcGIS Survey123 -->
+  <img src="https://th.bing.com/th/id/R.5f2a75d0ec5456c350b3688bac3aa732?rik=b%2fnG%2bedAORtgCw&pid=ImgRaw&r=0" height="50" alt="Survey123" />
+  <img width="10" />
+
+  <!-- Experience Builder -->
+  <img src="https://th.bing.com/th/id/R.0edca02c314d3467f29a22e51b7b7a1a?rik=SsKJAwY6fo0UqA&pid=ImgRaw&r=0" height="50" alt="Experience Builder" />
+  <img width="10" />
+
+  <!-- Dashboards -->
+  <img src="https://th.bing.com/th/id/R.92853e6727c35383d0f1eba10c6f6dee?rik=g5ZRMAA9ltSm7Q&pid=ImgRaw&r=0&sres=1&sresct=1" height="50" alt="Dashboards" />
+  <img width="10" />
+
+  <!-- ArcGIS Urban -->
+  <img src="https://th.bing.com/th/id/R.2d7d0b904d69da1989f6bc5e908a9fb4?rik=yOiADT75rARzYQ&pid=ImgRaw&r=0" height="50" alt="ArcGIS Urban" />
+  <img width="10" />
+
+  <!-- CityEngine -->
+  <img src="https://tse2.mm.bing.net/th/id/OIP.rMaN37UKLjVCAtoww_FcsQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" height="50" alt="CityEngine" />
+</p>
+
+<hr>
+
+<!-- ESRI Support -->
+<p align="center">
+  <img src="https://support.esri.com/content/dam/support/en-us/social/technical-support-social-share.jpg" height="50" alt="ESRI Support" />
+</p>
+
+<!-- CTA Button -->
+<p align="center">
+  👉 <a href="https://www.linkedin.com/services/page/854b87312a20b82853/"><b>Try My Services</b></a> – Explore how I can support your geospatial transformation
+</p>
 
 ### 🌍 Connect With Me
 
