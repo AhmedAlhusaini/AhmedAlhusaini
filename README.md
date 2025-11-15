@@ -142,7 +142,7 @@ I specialize in multi-cloud DevOps and building Geospatial Systems at scale, inc
   <img width="10" />
 
   <!-- Enterprise Geodatabase -->
-  <img src="https://th.bing.com/th/id/R.eb20f9c1977325c14fc723f0aa4dbba2?rik=LOm%2bfu2ysLHP4Q&pid=ImgRaw&r=0" height="50" alt="Enterprise Geodatabase" />
+  <img src="https://geospatialtraining.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-17-2025-09_13_16-AM.png" height="50" alt="Enterprise Geodatabase" />
   <img width="10" />
 
   <!-- ArcGIS Field Maps -->
